@@ -1,0 +1,16 @@
+{
+  "name": "Nuxt TS demo",
+  "short_name": "NUXT",
+  "description": "My wondrous Nuxt.js project",
+  "icons": [
+      {
+        "src": "/images/icon/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+  ],
+  "start_url": "/?ua=app",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
